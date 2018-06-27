@@ -1,0 +1,17 @@
+{
+  "name": "pivot_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SriBalaji",
+  "license": "ISC",
+  "dependencies": {
+    "composer-client": "^0.19.10",
+    "composer-common": "^0.19.10",
+    "composer-wallet-filesystem": "^0.19.10",
+    "express": "^4.16.3"
+  }
+}
